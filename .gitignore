@@ -1,0 +1,18 @@
+Assets/2DRPK/
+Assets/Aekashics Librarium - Megapack III/
+Assets/Bringer Of Death/
+Assets/Cave Platformer Tileset/
+Assets/MMDevelopers/
+Assets/Pixel Monster Pack/
+Assets/PlanetPackFree/
+Assets/RPGW_Caves/
+Assets/Warped Caves/
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+Packages/
+UserSettings/
+*.unitypackage
